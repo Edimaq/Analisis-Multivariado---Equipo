@@ -24,7 +24,9 @@ print(resultado$multivariateNormality)
 # Dado que los valores p de las pruebas de asimetría y curtosis de Mardia son mayores que 0.05, 
 # no hay evidencia suficiente para rechazar la normalidad multivariada. Por lo tanto, sí se puede
 # asumir que los datos siguen una distribución normal multivariada.
-
+# Ambos valores-p (0.404 y 0.690) son mayores que el nivel de significancia común de 0.05. 
+# Esto significa que no se rechaza la hipótesis nula de normalidad multivariada. Por lo tanto, sí 
+# se puede asumir que los datos siguen una distribución normal multivariada, según las pruebas aplicadas.
 
 # Ahora podriamos complementar a estas pruebas numericas el evaluar la normalidad multivariada
 # mediante gráficos Q-Q multivariados en R
