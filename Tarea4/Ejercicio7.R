@@ -136,10 +136,10 @@ contribucion=inercias/inercia;contribucion
 # Inercia acumulada
 cumsum(contribucion)
 #Observando la grafica, notando que los individuos estan en azul y las 
-#categorias en negro, podemos notar que la no supervivencia (deceso) de una
+#categorias en negro, podemos notar que la supervivencia de una
 #persona esta mas relacionado con el hecho de que viva en Tokyo y sea menor de 50,
 #mientras que un individuo entre 50 y 69 que vive en Boston tiene mas posibilidades
-# de que sobreviva, notando que el hecho de que viva en Glamorgan o tenga mas de 69
+# de que no sobreviva, notando que el hecho de que viva en Glamorgan o tenga mas de 69
 # no nos dan informacion suficiente de si sobrevive o no.
 
 
